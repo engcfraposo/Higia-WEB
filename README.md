@@ -34,7 +34,7 @@ atendimentos;
 ## :fire: Prévia da Aplicação
 
 <div align="center">
-<img src="./img/dashboard.gif" alt="preview"/>
+<img src="./img/./img/logo.jfif" alt="preview"/>
 </div>
 
 ### :rocket: Tecnologias Usadas
