@@ -1,7 +1,3 @@
-<div align="center" style="margin-bottom: 20px;">
-<img alt="Higia-WEB" src="./img/logo.jfif" width="auto" heigth="auto"/>
-</div>
-
 <div align="center" style="margin: 20px;">
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/engcfraposo/Higia-WEB/LICENSE.md)
