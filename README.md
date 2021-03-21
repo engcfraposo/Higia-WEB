@@ -33,8 +33,8 @@ atendimentos;
 
 ## :fire: Prévia da Aplicação
 
-<div align="center">
-<img src="./img/./img/logo.jfif" alt="preview"/>
+<div align="center" style="margin-bottom: 20px;">
+<img alt="Higia-WEB" src="./img/logo.jfif" width="auto" heigth="auto"/>
 </div>
 
 ### :rocket: Tecnologias Usadas
