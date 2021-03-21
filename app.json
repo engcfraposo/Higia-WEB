@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "Cláudio Raposo",
+      "birthdate": "26/03/1991",
+      "profissionalNumber": "766554432",
+      "cpf": "097.097.714-00",
+      "zipCode": "50721-260",
+      "address": "Rua Teste",
+      "addressNumber": "23",
+      "country": "Brasil",
+      "state": "PE",
+      "cellphone": "8199887255621",
+      "email": "teste@teste.com",
+      "password": "testa11",
+      "id": 12,
+      "isProvider": true
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "user_id": 11,
+      "provider_id": 10,
+      "date": "26/03/2021"
+    }
+  ],
+  "sessions": [
+    {
+      "email": "teste@teste.com",
+      "password": "teste",
+      "id": 1
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "teste",
+      "id": 2
+    },
+    {
+      "email": "teste2@teste.com",
+      "password": "teste",
+      "id": 3
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "teste",
+      "id": 4
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "testa11",
+      "id": 5
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "teste",
+      "id": 6
+    },
+    {
+      "email": "sad@dsf.xi",
+      "password": "hdsahfa",
+      "id": 7
+    },
+    {
+      "email": "teste@teste.com",
+      "password": "teste",
+      "id": 8
+    }
+  ]
+}
